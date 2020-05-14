@@ -1,4 +1,4 @@
-# housing_price
+# HOUSING PRICE ANALYSIS
 
 # Analysis strategy and plans:
 - Exploratory Data Analysis and Initial Outlier Detection
